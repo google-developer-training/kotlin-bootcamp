@@ -13,6 +13,9 @@ A clear and concise description of what the problem is.
 **In which step of the codelab can this issue be found?**
 Step number.
 
+**Steps to reproduce?**
+What are the steps to reproduce the problem?
+
 **Versions**
 What version of IntelliJ IDEA are you using?
 
